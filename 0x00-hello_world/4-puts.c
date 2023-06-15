@@ -1,7 +1,7 @@
 #!/bin/bash
 #include<stdio.h>
 /**
- * main - Entry point
+ * Description:main -Prins out a string to stdout.
  *
  * Return: Always 0 (Success)
  */
