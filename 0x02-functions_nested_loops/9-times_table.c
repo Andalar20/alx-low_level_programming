@@ -2,7 +2,7 @@
 
 
 /**
-* main - check the code
+* main - check the code that prints the 9 times table, starting with 0
 *
 * Return: Always 0.
 */
